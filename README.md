@@ -3,8 +3,6 @@
 #### I'm Mohamed higgy and I'm a Front-end Developer
 
 <br />
-<br />
-
 ## `Connect with me:`
 
 [<img align="left" alt="mohamed-higgy-a7875116a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -1,11 +1,8 @@
 ## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm a CS student and Front end developer to be !
-
 <br />
 <br />
-
-
 ## Languages and Tools:
 <!-- start tools and languages -->
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

@@ -27,4 +27,3 @@
 <hr>
 
 [![MohamedHiggy's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHiggy&langs_count=6&layout=compact)](#)
-[![MohamedHiggy's github stats](https://github-readme-stats.vercel.app/api?username=MohamedHiggy&hide=prs&count_private=true&show_icons=true)](#)

@@ -9,12 +9,6 @@
 <br />
 <br />
 
-<hr>
-
-[![MohamedHiggy's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHiggy&langs_count=6&layout=compact)](#)
-
-<br />
-<br />
 
 ## Languages and Tools:
 <!-- start tools and languages -->
@@ -29,4 +23,7 @@
 <img align="left" alt="Typescript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-
+<br />
+<br />
+<hr>
+[![MohamedHiggy's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHiggy&langs_count=6&layout=compact)](#)

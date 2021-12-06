@@ -1,6 +1,6 @@
 ## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p>Innovative Front-End developer. Love building JAMStack projects. Always eager to pickup and quickly learn new technologies.</p>
+<p>Innovative Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and I always try to enhance my knowledge, technical and social skills.</p>
 
 [![twitter badge](https://img.shields.io/badge/twitter-MohamedHiggy-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohamed_higgy)
 [![linkedin badge](https://img.shields.io/badge/linkedin-MohamedHiggy-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hggy/)

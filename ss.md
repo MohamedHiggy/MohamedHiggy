@@ -3,7 +3,7 @@
 <p>Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and always try to enhance my knowledge, technical and social skills.</p>
 
 ## 💫 About Me:
-🔭 I’m currently working on [![Velents](https://uploads-ssl.webflow.com/6228ff725e7fa4410b2fd4cb/622940c839974ccb934828bd_svvvv.svg)](https://www.velents.com/)<br>🌱 I’m currently learning (cypress, CI/CD)
+🔭 I’m currently working on ![Velents](https://www.velents.com/)<br>🌱 I’m currently learning (cypress, CI/CD)
 
 
 ## 💻 Tech Stack:

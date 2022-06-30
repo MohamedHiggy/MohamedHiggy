@@ -13,4 +13,4 @@
 
 
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,js,sass,vue,nuxtjs,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vue,nuxtjs,tailwind,git)](https://skillicons.dev)

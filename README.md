@@ -1,4 +1,4 @@
-## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25">
+## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
 <p>Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and always try to enhance my knowledge, technical and social skills.</p>
 
@@ -8,16 +8,9 @@
 [![instagram badge](https://img.shields.io/badge/instagram-MohamedHiggy-&1877F2?style=flat&logo=instagram&logoColor=white&color=1877F2)](https://www.instagram.com/mohamed__higgy)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=viewers)
 
+## 💫 About Me:
+🔭 I’m currently working on [Velents](https://www.velents.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (Cypress, CI/CD)
 
 
-<!-- ## Languages and Tools:-->
-<!-- start tools and languages -->
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png" />
-<img align="left" alt="Jquery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## 💻 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vue,nuxtjs,tailwind,git)](https://skillicons.dev)

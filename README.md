@@ -3,7 +3,7 @@
 <p>Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and always try to enhance my knowledge, technical and social skills.</p>
 
 ## 💫 About Me:
-🔭 I’m currently working on [Velents](https://www.velents.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (Cypress, CI/CD)
+🔭 I’m currently working on [Velents](https://www.velents.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (Cypress)
 
 
 ## 💻 Languages and Tools:
@@ -94,6 +94,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg"
         alt="algolia"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://circleci.com/" target="_blank" rel="noreferrer"  title="circleci">
+      <img
+        src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
+        alt="circleci"
         width="40"
         height="40"
       />

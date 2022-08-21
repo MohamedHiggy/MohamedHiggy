@@ -160,6 +160,6 @@
     <a href="https://www.linkedin.com/in/mohamedhiggy/">LinkedIn</a> .
     <a href="https://twitter.com/mohamed_higgy">Twitter</a> .
     <a href="https://www.facebook.com/Hagooog">Facebook</a> .
-    <a href="https://www.instagram.com/mohamed__higgy">Instagram</a>
+    <a href="https://www.instagram.com/mmohamedhiggy">Instagram</a>
   </samp>
 </p>

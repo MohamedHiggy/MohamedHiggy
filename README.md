@@ -164,8 +164,8 @@
   </samp>
 </p>
 
-<br /><br />
+<br />
 
-# My latest articles!
+# ✍ My latest articles!
 <!-- BLOG:START -->
 - [Avoiding Memory Leaks in Javascript](https://higgy.hashnode.dev/avoiding-memory-leaks-in-javascript)

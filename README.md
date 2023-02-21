@@ -163,3 +163,9 @@
     <a href="https://www.instagram.com/mmohamedhiggy">Instagram</a>
   </samp>
 </p>
+
+<br /><br />
+
+# My latest articles!
+<!-- BLOG:START -->
+- [Avoiding Memory Leaks in Javascript](https://higgy.hashnode.dev/avoiding-memory-leaks-in-javascript)

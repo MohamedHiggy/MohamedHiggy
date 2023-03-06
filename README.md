@@ -3,7 +3,7 @@
 <p>Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and always try to enhance my knowledge, technical and social skills.</p>
 
 ## 💫 About Me:
-🔭 I’m currently working on [ArabyAds](https://www.arabyads.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (TypeScript, Cypress, Web Accessibility)
+🔭 I’m currently working on [ArabyAds](https://www.arabyads.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (Cypress, Web Accessibility, Web Workers)
 
 
 ## 💻 Languages and Tools:

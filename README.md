@@ -6,7 +6,8 @@
 
 
 ## 💻 Languages and Tools:
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="html5">
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="html5">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
@@ -121,7 +122,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"  title="html5">
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"  title="cypress">
       <img
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
         alt="cypress"

@@ -1,10 +1,8 @@
 ## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
-<p>Front-End developer. Love building JAMStack projects. Always eager to pick up and quickly learn new technologies where I make sure to give each technology fair time and always try to enhance my knowledge, technical and social skills.</p>
-
-## 💫 About Me:
-🔭 I’m currently working on [Velents](https://www.velents.com/)<br>🎓 Computer Science Student: [@Faculty of Computer and Information Science Mansoura University](https://www.mans.edu.eg/faculty-of-computing-and-information/235-programs/computing-and-information)<br>🌱 I’m currently learning (Cypress, Web Accessibility, Web Workers)
-
+- 💻 I work as a Frontend Engineer at [Waffarha](https://waffarha.com).
+- ✨ My passion lies in Frontend and Web Performance, and I'm currently advancing my Vue.js skills for high-quality web application development.
+- 💡 Sharing knowledge[on my personal blog](https://higgy.hashnode.dev).
 
 ## 💻 Languages and Tools:
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="html5">
@@ -122,14 +120,14 @@
         height="40"
       />
     </a>
-    <!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"  title="html5">
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"  title="html5">
       <img
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
         alt="cypress"
         width="40"
         height="40"
       />
-    </a> -->
+    </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"  title="jest">
       <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -138,14 +136,6 @@
         height="40"
       />
     </a>
-    <!-- <a href="https://circleci.com" target="_blank" rel="noreferrer"  title="html5">
-      <img
-        src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
-        alt="circleci"
-        width="40"
-        height="40"
-      />
-    </a> -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"  title="csharp">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -159,8 +149,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/mohamedhiggy/">LinkedIn</a> .
     <a href="https://twitter.com/mohamed_higgy">Twitter</a> .
-    <a href="https://www.facebook.com/Hagooog">Facebook</a> .
-    <a href="https://www.instagram.com/mmohamedhiggy">Instagram</a>
+    <a href="https://www.facebook.com/Hagooog">Facebook</a>
   </samp>
 </p>
 

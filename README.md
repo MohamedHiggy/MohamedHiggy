@@ -1,8 +1,9 @@
 ## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
-- 💻 I work as a Frontend Engineer at [Waffarha](https://waffarha.com).
-- ✨ My passion lies in Frontend and Web Performance, and I'm currently advancing my Vue.js skills for high-quality web application development.
-- 💡 Sharing knowledge[on my personal blog](https://higgy.hashnode.dev).
+- 💻 I work as a Frontend Engineer at [@Waffarha](https://waffarha.com).
+- ✨ Currently advancing my Vue.js skills for high-quality web application development.
+- 💡 Sharing knowledge [@hashnode](https://higgy.hashnode.dev).
+
 
 ## 💻 Languages and Tools:
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="html5">

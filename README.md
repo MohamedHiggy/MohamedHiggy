@@ -1,76 +1,34 @@
-## `Hey There!` , I'm Mohamed higgy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
+## Hi there, I'm Mohamed Higgy 👋
 
-- 💻 Working as a Frontend Developer at [@Limesharp](https://limesharp.net).
-- ✨ Currently advancing my skills in Vue.js for high-quality web application development.
-- 📖 Currently Reading: **"Building Micro-Frontends"** by [Luca Mezzalira](https://lucamezzalira.com/).
-- 💡 Sharing knowledge on [@hashnode](https://higgy.hashnode.dev).
+- 🌟 **Frontend Engineer at [Limesharp](https://www.limesharp.net)**
+- 📈 Currently advancing my skills in **Vue.js** for high-quality web application development.
+- 📚 Currently Reading: *[Building Micro-Frontends](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)* by Luca Mezzalira.
+- ✍️ Sharing knowledge on **[@hashnode](https://higgy.hashnode.dev/)**.
 
-## 💻 Languages and Tools:
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer" title="Vuetify">
-      <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.js">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" title="Nuxt.js">
-      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/>
-    </a>
-    <a href="https://gsap.com" target="_blank" rel="noreferrer" title="GSAP">
-      <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.algolia.com/" target="_blank" rel="noreferrer" title="Algolia">
-      <img src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg" alt="Algolia" width="40" height="40"/>
-    </a>
-    <a href="https://circleci.com/" target="_blank" rel="noreferrer" title="CircleCI">
-      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/>
-    </a>
-    <a href="https://pusher.com/" target="_blank" rel="noreferrer" title="Pusher">
-      <img src="https://avatars.githubusercontent.com/u/739550?s=280&v=4" alt="Pusher" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Cypress">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    </a>
-</p>
+## Connect with Me
 
-<p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/mohamedhiggy/">LinkedIn</a> •
-    <a href="https://twitter.com/mohamed_higgy">Twitter</a> •
-    <a href="https://www.facebook.com/Hagooog">Facebook</a>
-  </samp>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhiggy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mmohamedhiggy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohamedHiggy)
 
-## ✍ My latest articles!
-<!-- BLOG:START -->
-- [Avoiding Memory Leaks in JavaScript](https://higgy.hashnode.dev/avoiding-memory-leaks-in-javascript)
+## Skills and Tools
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+## Latest Article
+
+📝 [Avoiding Memory Leaks in JavaScript](https://higgy.hashnode.dev/avoiding-memory-leaks-in-javascript)
